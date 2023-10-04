@@ -1,0 +1,5 @@
+#Homework 3: khinkali joke
+hungry_customer = "Hello! I want 99 Khinkali "
+waiter = "What the hell?! take 100 of them! "
+hungry_and_smart_customer = "100? NO! I am not a pig!"
+print(hungry_customer + waiter + hungry_and_smart_customer)
